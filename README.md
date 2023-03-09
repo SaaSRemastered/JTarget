@@ -1,2 +1,2 @@
 # JTarget
-Jenkins Organization Target
+This information has been written by KindaSaaS, the owner of this repository
